@@ -1,2 +1,2 @@
 # Rocket.Sect
-## Page made for an enterprise specialized in data security.
+## Page made for a company specialized in data security.
